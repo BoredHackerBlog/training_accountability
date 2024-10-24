@@ -6,3 +6,4 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Oct 21 - TCM XXE
  - Oct 22 - TCM XSS
  - Oct 23 - TCM JWT
+ - Oct 24 - TCM mass assignment & websockets
