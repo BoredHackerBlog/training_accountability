@@ -9,4 +9,4 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Oct 24 - TCM mass assignment & websockets
  - Oct 25 - TCM race condition
  - Nov 3 - RET2 C fundamentals
- - 
+ - Nov 10 - RET2 rev eng
