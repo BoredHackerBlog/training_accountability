@@ -10,3 +10,5 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Oct 25 - TCM race condition
  - Nov 3 - RET2 C fundamentals
  - Nov 10 - RET2 rev eng
+ - Nov 16 - RET2 memory corruption
+ - 
