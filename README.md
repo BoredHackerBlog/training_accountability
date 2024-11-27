@@ -14,3 +14,4 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Nov 24 - RET2 memory corruption
  - Nov 25 - RET2 shellcoding
  - Nov 26 - RET2 shellcoding
+ - Nov 27 - RET2 shellcoding
