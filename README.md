@@ -15,3 +15,4 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Nov 25 - RET2 shellcoding
  - Nov 26 - RET2 shellcoding
  - Nov 27 - RET2 shellcoding
+ - Dec 1 - RET2 shellcoding
