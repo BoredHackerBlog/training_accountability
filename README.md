@@ -16,3 +16,6 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Nov 26 - RET2 shellcoding
  - Nov 27 - RET2 shellcoding
  - Dec 1 - RET2 shellcoding
+
+### 2025
+ - Feb 4 - Threat hunting & IR with velociraptor (https://www.antisyphontraining.com/course/threat-hunting-incident-response-with-velociraptor-with-eric-capuano-whitney-champion/)
