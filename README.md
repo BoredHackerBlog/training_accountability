@@ -21,3 +21,6 @@ Just repo to keep myself accountable about the trainings i signed up for
  - Feb 4 - Threat hunting & IR with velociraptor (https://www.antisyphontraining.com/course/threat-hunting-incident-response-with-velociraptor-with-eric-capuano-whitney-champion/)
  - Jun 16 - TCM SOC
  - Jun 17 - PentesterLab
+
+### 2026
+ - March - Xintra APT
