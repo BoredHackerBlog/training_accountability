@@ -24,3 +24,5 @@ Just repo to keep myself accountable about the trainings i signed up for
 
 ### 2026
  - March - Xintra APT
+ - March - digital defense institute - threat hunting & IR with velociraptor (coursestack)
+ - 
